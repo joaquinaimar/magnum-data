@@ -1,0 +1,125 @@
+{
+  "code": 1,
+  "result": [
+    {
+      "id": 1,
+      "name": "APP管理",
+      "icon": "/data/root/resources/palletIcon/APP管理.png",
+      "url": ""
+    },
+    {
+      "id": 2,
+      "name": "APP统计",
+      "icon": "/data/root/resources/palletIcon/APP统计.png",
+      "url": ""
+    },
+    {
+      "id": 3,
+      "name": "云监控",
+      "icon": "/data/root/resources/palletIcon/云监控.png",
+      "url": ""
+    },
+    {
+      "id": 4,
+      "name": "云稿库",
+      "icon": "/data/root/resources/palletIcon/云稿库.png",
+      "url": ""
+    },
+    {
+      "id": 5,
+      "name": "传播分析",
+      "icon": "/data/root/resources/palletIcon/传播分析.png",
+      "url": ""
+    },
+    {
+      "id": 6,
+      "name": "信息采集",
+      "icon": "/data/root/resources/palletIcon/信息采集.png",
+      "url": ""
+    },
+    {
+      "id": 7,
+      "name": "发公告",
+      "icon": "/data/root/resources/palletIcon/发公告.png",
+      "url": ""
+    },
+    {
+      "id": 8,
+      "name": "我要供稿",
+      "icon": "/data/root/resources/palletIcon/我要供稿.png",
+      "url": ""
+    },
+    {
+      "id": 9,
+      "name": "投票",
+      "icon": "/data/root/resources/palletIcon/投票.png",
+      "url": ""
+    },
+    {
+      "id": 10,
+      "name": "数据维护",
+      "icon": "/data/root/resources/palletIcon/数据维护.png",
+      "url": ""
+    },
+    {
+      "id": 11,
+      "name": "数据订阅中心",
+      "icon": "/data/root/resources/palletIcon/数据订阅中心.png",
+      "url": ""
+    },
+    {
+      "id": 12,
+      "name": "用户权限中心",
+      "icon": "/data/root/resources/palletIcon/用户权限中心.png",
+      "url": ""
+    },
+    {
+      "id": 13,
+      "name": "直播",
+      "icon": "/data/root/resources/palletIcon/直播.png",
+      "url": ""
+    },
+    {
+      "id": 14,
+      "name": "移动精编",
+      "icon": "/data/root/resources/palletIcon/移动精编.png",
+      "url": ""
+    },
+    {
+      "id": 15,
+      "name": "线索",
+      "icon": "/data/root/resources/palletIcon/线索.png",
+      "url": ""
+    },
+    {
+      "id": 16,
+      "name": "绩效考核",
+      "icon": "/data/root/resources/palletIcon/绩效考核.png",
+      "url": ""
+    },
+    {
+      "id": 17,
+      "name": "网站精编",
+      "icon": "/data/root/resources/palletIcon/网站精编.png",
+      "url": ""
+    },
+    {
+      "id": 18,
+      "name": "网站统计",
+      "icon": "/data/root/resources/palletIcon/网站统计.png",
+      "url": ""
+    },
+    {
+      "id": 19,
+      "name": "选题",
+      "icon": "/data/root/resources/palletIcon/选题.png",
+      "url": ""
+    },
+    {
+      "id": 20,
+      "name": "部门管理",
+      "icon": "/data/root/resources/palletIcon/部门管理.png",
+      "url": ""
+    }
+  ]
+}
