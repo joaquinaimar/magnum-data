@@ -1,0 +1,55 @@
+{
+  "code": "1",
+  "result": [
+    {
+      "id": 1,
+      "startTime": 1619829000000,
+      "endTime": 1619838000000,
+      "title": "五一预定",
+      "content": "内容"
+    },
+    {
+      "id": 2,
+      "startTime": 1619915700000,
+      "endTime": 1619923800000,
+      "title": "五二预定",
+      "content": "内容"
+    },
+    {
+      "id": 31,
+      "startTime": 1620000000000,
+      "endTime": 1620007200000,
+      "title": "五三冲突1",
+      "content": "内容"
+    },
+    {
+      "id": 32,
+      "startTime": 1620005400000,
+      "endTime": 1620012600000,
+      "title": "五三冲突2",
+      "content": "内容"
+    },
+    {
+      "id": 33,
+      "startTime": 1620001800000,
+      "endTime": 1620003600000,
+      "title": "五三冲突3",
+      "content": "内容"
+    },
+    {
+      "id": 41,
+      "startTime": 1620079200000,
+      "endTime": 1620090000000,
+      "title": "五四预定1",
+      "content": "内容"
+    },
+    {
+      "id": 42,
+      "startTime": 1620111600000,
+      "endTime": 1620129600000,
+      "title": "五四预定2",
+      "content": "内容"
+    }
+  ],
+  "timestamp": 124342
+}
