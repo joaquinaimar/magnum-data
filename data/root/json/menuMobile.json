@@ -1,0 +1,40 @@
+{
+  "code": 1,
+  "result": [
+    {
+      "id": "demoMobile_pageStack",
+      "iconFont": "fa layer-group",
+      "name": "Page栈测试",
+      "children": [
+        {
+          "id": "demoMobile_pageStack_pageStackHome",
+          "name": "Page栈主页",
+          "url": "/demoMobile/pageStack/pageStackHome"
+        },
+        {
+          "id": "demoMobile_pageStack_pageStackHomeHiddenHeader",
+          "name": "Page栈主页（隐藏）",
+          "url": "/demoMobile/pageStack/pageStackHomeHiddenHeader"
+        }
+      ]
+    },
+    {
+      "id": "demo_crudSkeleton",
+      "iconFont": "fa building",
+      "name": "CRUD骨架",
+      "children": [
+        {
+          "id": "demo_crudSkeleton_userAntdResponsiveCrud",
+          "name": "ANTD CRUD(响应式)",
+          "url": "/demo/crudSkeleton/userAntdResponsiveCrud"
+        }
+      ]
+    },
+    {
+      "iconImage": "https://www.baidu.com/favicon.ico",
+      "id": "demo_frame_baidu",
+      "name": "框架-打开链接（百度）",
+      "openUrl": "https://www.baidu.com/"
+    }
+  ]
+}

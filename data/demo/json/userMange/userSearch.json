@@ -1,0 +1,91 @@
+{
+  "code": "1",
+  "result": {
+    "pageSize": 10,
+    "pageNo": 9,
+    "totalCount": 101,
+    "data": [
+      {
+        "id": 1472,
+        "username": "michael88",
+        "nickname": "阳光小子",
+        "sex": "男",
+        "phone": "13987654321",
+        "email": "michael88@example.com"
+      },
+      {
+        "id": 2583,
+        "username": "sarah2024",
+        "nickname": "小雨点",
+        "sex": "女",
+        "phone": "15998761234",
+        "email": "sarah2024@demo.net"
+      },
+      {
+        "id": 3691,
+        "username": "alex_wong",
+        "nickname": "阿杰",
+        "sex": "男",
+        "phone": "18812349876",
+        "email": "alex_wong@testmail.com"
+      },
+      {
+        "id": 4729,
+        "username": "jessica_01",
+        "nickname": "BlueSky",
+        "sex": "女",
+        "phone": "13567892345",
+        "email": "jessica_01@mailhub.com"
+      },
+      {
+        "id": 5837,
+        "username": "david1999",
+        "nickname": "风行者",
+        "sex": "男",
+        "phone": "17645678901",
+        "email": "david1999@usermail.org"
+      },
+      {
+        "id": 6948,
+        "username": "emma404",
+        "nickname": "甜甜圈",
+        "sex": "女",
+        "phone": "13723456789",
+        "email": "emma404@emailbox.net"
+      },
+      {
+        "id": 7159,
+        "username": "tommy_x",
+        "nickname": "夜行者",
+        "sex": "男",
+        "phone": "18687654321",
+        "email": "tommy_x@fastmail.cn"
+      },
+      {
+        "id": 8260,
+        "username": "lilyrose",
+        "nickname": "小花",
+        "sex": "女",
+        "phone": "15876543210",
+        "email": "lilyrose@letterbox.com"
+      },
+      {
+        "id": 9371,
+        "username": "johnson_k",
+        "nickname": "探索者",
+        "sex": "男",
+        "phone": "13645671234",
+        "email": "johnson_k@domainbox.org"
+      },
+      {
+        "id": 1082,
+        "username": "anna_belle",
+        "nickname": "星辰",
+        "sex": "女",
+        "phone": "17712345678",
+        "email": "anna_belle@cloudmail.net"
+      }
+    ]
+  },
+  "timestamp": 124342
+}

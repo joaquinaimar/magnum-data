@@ -1,0 +1,28 @@
+{
+  "code": "1",
+  "result": {
+    "userId": 200056626,
+    "userName": "admin",
+    "nickname": "管理员",
+    "initDate": 1544410030000,
+    "mnemonicId": 256959,
+    "email": "",
+    "phoneNum": "17600000000",
+    "isCheckPhone": "true",
+    "weixin": "",
+    "weixinName": "",
+    "weibo": "",
+    "weiboName": "",
+    "qq": "",
+    "qqName": "",
+    "loginSeed": "a26967f085341b00d93ba20e5ba02916",
+    "headimg": "",
+    "addressJson": [],
+    "birthday": "",
+    "sex": "",
+    "profession": "",
+    "authCode": "54d405a1-ee32-49ba-9042-ead61d731295",
+    "token": "e7803c97-809d-4101-95f5-5c993de9b934",
+    "authority": true
+  }
+}
