@@ -19,7 +19,36 @@
       ]
     },
     {
-      "id": "demo_crudSkeleton",
+      "id": "demoMobile_plugin",
+      "iconFont": "fa microchip",
+      "name": "utility插件",
+      "children": [
+        {
+          "id": "demoMobile_plugin_basic",
+          "name": "基础组件",
+          "url": "/demoMobile/plugin/basic"
+        },
+        {
+          "id": "demoMobile_plugin_dialog",
+          "name": "对话框",
+          "url": "/demoMobile/plugin/dialog"
+        }
+      ]
+    },
+    {
+      "id": "demoMobile_example",
+      "iconFont": "fa building",
+      "name": "示例页面",
+      "children": [
+        {
+          "id": "demoMobile_example_video",
+          "name": "视频直播",
+          "url": "/demoMobile/example/video"
+        }
+      ]
+    },
+    {
+      "id": "demoMobile_crudSkeleton",
       "iconFont": "fa building",
       "name": "CRUD骨架",
       "children": [
