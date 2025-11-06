@@ -19,6 +19,48 @@
       ]
     },
     {
+      "id": "demo_state",
+      "iconFont": "fa retweet",
+      "name": "状态管理",
+      "children": [
+        {
+          "id": "demo_state_httpStateOperation",
+          "name": "HTTP State操作",
+          "url": "/demo/state/httpStateOperation"
+        },
+        {
+          "id": "demo_state_httpReduxOperation",
+          "name": "HTTP Redux操作",
+          "url": "/demo/state/httpReduxOperation"
+        },
+        {
+          "id": "demo_state_rpcStreamReduxOperation",
+          "name": "RPC Stream Redux操作",
+          "url": "/demo/state/rpcStreamReduxOperation"
+        },
+        {
+          "id": "demo_state_httpZustandOperation",
+          "name": "HTTP Zustand操作",
+          "url": "/demo/state/httpZustandOperation"
+        },
+        {
+          "id": "demo_state_httpLockerOperation",
+          "name": "HTTP Locker操作",
+          "url": "/demo/state/httpLockerOperation"
+        },
+        {
+          "id": "demo_state_httpVuexOperation",
+          "name": "HTTP Vuex操作",
+          "url": "/demo/state/httpVuexOperation"
+        },
+        {
+          "id": "demo_state_rpcStreamVuexOperation",
+          "name": "RPC Stream Vuex操作",
+          "url": "/demo/state/rpcStreamVuexOperation"
+        }
+      ]
+    },
+    {
       "id": "demoMobile_plugin",
       "iconFont": "fa microchip",
       "name": "utility插件",
@@ -29,9 +71,9 @@
           "url": "/demoMobile/plugin/basic"
         },
         {
-          "id": "demoMobile_plugin_dialog",
+          "id": "demo_plugin_dialog",
           "name": "对话框",
-          "url": "/demoMobile/plugin/dialog"
+          "url": "/demo/plugin/dialog"
         }
       ]
     },
@@ -41,9 +83,9 @@
       "name": "示例页面",
       "children": [
         {
-          "id": "demoMobile_example_video",
+          "id": "demoMobile_example_videoExample",
           "name": "视频直播",
-          "url": "/demoMobile/example/video"
+          "url": "/demoMobile/example/videoExample"
         }
       ]
     },
