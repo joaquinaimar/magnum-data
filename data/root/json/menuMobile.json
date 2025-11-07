@@ -78,14 +78,34 @@
       ]
     },
     {
-      "id": "demoMobile_example",
+      "id": "demoMobile_typical",
       "iconFont": "fa building",
-      "name": "示例页面",
+      "name": "典型示例",
       "children": [
         {
-          "id": "demoMobile_example_videoExample",
+          "id": "demoMobile_typical_newsList",
+          "name": "新闻列表",
+          "url": "/demoMobile/typical/newsList"
+        },
+        {
+          "id": "demoMobile_typical_album",
+          "name": "相册",
+          "url": "/demoMobile/typical/album"
+        },
+        {
+          "id": "demoMobile_typical_liveVideo",
           "name": "视频直播",
-          "url": "/demoMobile/example/videoExample"
+          "url": "/demoMobile/typical/liveVideo"
+        },
+        {
+          "id": "demoMobile_typical_shortFormVideo",
+          "name": "短视频",
+          "url": "/demoMobile/typical/shortFormVideo"
+        },
+        {
+          "id": "demoMobile_typical_richEditor",
+          "name": "富文本编辑",
+          "url": "/demoMobile/typical/richEditor"
         }
       ]
     },
