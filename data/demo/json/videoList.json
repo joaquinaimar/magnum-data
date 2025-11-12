@@ -5,108 +5,108 @@
       "id": "video_001",
       "url": "/data/demo/resources/video/001.mp4",
       "title": "プラネタリウム",
-      "content": "星空の美しさを堪能できる特別な空間。夜空に浮かぶ無数の星々が幻想的な雰囲気を作り出しています。"
+      "content": "星空の下で宇宙の神秘を感じる特別な体験。無数の星が織りなす美しい天の川が広がります。"
     },
     {
       "id": "video_002",
       "url": "/data/demo/resources/video/002.mp4",
       "title": "ラストシーン（Last Scene）",
-      "content": "物語の終わりを彩る感動的な場面。登場人物たちの思いが交差する重要な瞬間が描かれています。"
+      "content": "物語のクライマックスを飾る感動的な場面。登場人物たちの思いが交差し、心に残る結末が描かれます。"
     },
     {
       "id": "video_003",
-      "url": "/data/demo/resources/video/001.mp4",
-      "title": "プラネタリウム",
-      "content": "最新の投影技術で再現される宇宙の神秘。惑星や星座がリアルに映し出され、宇宙への旅を体験できます。"
+      "url": "/data/demo/resources/video/003.mp4",
+      "title": "もう少し あと少し...",
+      "content": "目標に向かって努力する人々の姿を描いたドキュメンタリー。諦めずに進む姿勢が印象的です。"
     },
     {
       "id": "video_004",
-      "url": "/data/demo/resources/video/002.mp4",
-      "title": "ラストシーン（Last Scene）",
-      "content": "長い旅路の果てに訪れる決断の瞬間。主人公が直面する最終的な選択が物語に深みを与えています。"
+      "url": "/data/demo/resources/video/001.mp4",
+      "title": "プラネタリウム",
+      "content": "最新の投影技術で再現される宇宙の壮大な景色。惑星や星座がリアルに映し出され、宇宙旅行気分を味わえます。"
     },
     {
       "id": "video_005",
-      "url": "/data/demo/resources/video/001.mp4",
-      "title": "プラネタリウム",
-      "content": "子どもから大人まで楽しめる天文教育の場。星座の神话や天文学の基礎知識が学べる貴重なコンテンツです。"
+      "url": "/data/demo/resources/video/002.mp4",
+      "title": "ラストシーン（Last Scene）",
+      "content": "長い旅路の末に訪れる決断の瞬間。主人公が直面する最終的な選択が物語に深みを与えています。"
     },
     {
       "id": "video_006",
-      "url": "/data/demo/resources/video/002.mp4",
-      "title": "ラストシーン（Last Scene）",
-      "content": "過去と未来が交差する時間の狭間で繰り広げられるドラマ。記憶と現実の境界が曖昧になる不思議な体験ができます。"
+      "url": "/data/demo/resources/video/003.mp4",
+      "title": "もう少し あと少し...",
+      "content": "挑戦を続ける若者たちの姿を描いた青春ストーリー。失敗を恐れずに前進する姿が励みになります。"
     },
     {
       "id": "video_007",
       "url": "/data/demo/resources/video/001.mp4",
       "title": "プラネタリウム",
-      "content": "四季折々の星空を楽しむことができる特集。春の牡羊座から冬のオリオン座まで、季節ごとの星座が紹介されています。"
+      "content": "子どもから大人まで楽しめる天文教育の場。星座の神話や天文学の基礎知識が学べる貴重なコンテンツです。"
     },
     {
       "id": "video_008",
       "url": "/data/demo/resources/video/002.mp4",
       "title": "ラストシーン（Last Scene）",
-      "content": "戦争と平和の狭間で揺れる人々の心を描く感動的なエピソード。希望と絶望が入り混じる複雑な感情が表現されています。"
+      "content": "過去と未来が交差する時間の狭間で繰り広げられるドラマ。記憶と現実の境界が曖昧になる不思議な体験ができます。"
     },
     {
       "id": "video_009",
-      "url": "/data/demo/resources/video/001.mp4",
-      "title": "プラネタリウム",
-      "content": "銀河系の形成から現在までの進化を追う科学ドキュメンタリー。宇宙の壮大な歴史が視覚的に説明されています。"
+      "url": "/data/demo/resources/video/003.mp4",
+      "title": "もう少し あと少し...",
+      "content": "困難を乗り越えて夢を叶える人々の物語。努力と情熱が実を結ぶ瞬間が感動的に描かれています。"
     },
     {
       "id": "video_010",
+      "url": "/data/demo/resources/video/001.mp4",
+      "title": "プラネタリウム",
+      "content": "四季折々の星空を楽しむことができる特集。春の牡羊座から冬のオリオン座まで、季節ごとの星座が紹介されています。"
+    },
+    {
+      "id": "video_011",
       "url": "/data/demo/resources/video/002.mp4",
       "title": "ラストシーン（Last Scene）",
       "content": "音楽と映像が融合した実験的な作品。視覚的な美しさと音響効果が調和した独自の世界観が広がっています。"
     },
     {
-      "id": "video_011",
-      "url": "/data/demo/resources/video/001.mp4",
-      "title": "プラネタリウム",
-      "content": "古代文明が見上げた星空の意味を探る歴史的な内容。星座が持つ文化的背景や神話的解釈が紹介されています。"
-    },
-    {
       "id": "video_012",
-      "url": "/data/demo/resources/video/002.mp4",
-      "title": "ラストシーン（Last Scene）",
-      "content": "時間旅行をテーマにしたSF作品。過去と未来を行き来する主人公の冒険がスリリングな展開で描かれています。"
+      "url": "/data/demo/resources/video/003.mp4",
+      "title": "もう少し あと少し...",
+      "content": "家族の絆をテーマにした温かい物語。困難を乗り越えながら成長していく家族の姿が描かれています。"
     },
     {
       "id": "video_013",
       "url": "/data/demo/resources/video/001.mp4",
       "title": "プラネタリウム",
-      "content": "地球から見える星座と、宇宙から見た地球の違いを比較するユニークな視点。異なる視点での美しさが強調されています。"
+      "content": "銀河系の形成から現在までの進化を追う科学ドキュメンタリー。宇宙の壮大な歴史が視覚的に説明されています。"
     },
     {
       "id": "video_014",
       "url": "/data/demo/resources/video/002.mp4",
       "title": "ラストシーン（Last Scene）",
-      "content": "家族の絆をテーマにした温かい物語。困難を乗り越えながら成長していく家族の姿が描かれています。"
+      "content": "戦争と平和の狭間で揺れる人々の心を描く感動的なエピソード。希望と絶望が入り混じる複雑な感情が表現されています。"
     },
     {
       "id": "video_015",
-      "url": "/data/demo/resources/video/001.mp4",
-      "title": "プラネタリウム",
-      "content": "黒洞やワームホールなど、宇宙の謎に迫る科学的解説。理論物理学の最新知識が分かりやすく紹介されています。"
-    },
-    {
-      "id": "video_016",
-      "url": "/data/demo/resources/video/002.mp4",
-      "title": "ラストシーン（Last Scene）",
+      "url": "/data/demo/resources/video/003.mp4",
+      "title": "もう少し あと少し...",
       "content": "芸術と科学が融合した前衛的な作品。抽象的な映像表現と革新的な音響デザインが特徴的です。"
     },
     {
-      "id": "video_017",
+      "id": "video_016",
       "url": "/data/demo/resources/video/001.mp4",
       "title": "プラネタリウム",
-      "content": "夏の大三角や冬のダイヤモンドなど、有名な星座の並びを詳しく解説。観察ポイントや見ごろの時期も紹介されています。"
+      "content": "古代文明が見上げた星空の意味を探る歴史的な内容。星座が持つ文化的背景や神話的解釈が紹介されています。"
+    },
+    {
+      "id": "video_017",
+      "url": "/data/demo/resources/video/002.mp4",
+      "title": "ラストシーン（Last Scene）",
+      "content": "時間旅行をテーマにしたSF作品。過去と未来を行き来する主人公の冒険がスリリングな展開で描かれています。"
     },
     {
       "id": "video_018",
-      "url": "/data/demo/resources/video/002.mp4",
-      "title": "ラストシーン（Last Scene）",
+      "url": "/data/demo/resources/video/003.mp4",
+      "title": "もう少し あと少し...",
       "content": "環境問題と宇宙開発の関係性を考察するドキュメンタリー。地球外生命探査と地球環境保護のバランスが議論されています。"
     }
   ],
