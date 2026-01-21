@@ -74,6 +74,11 @@
           "id": "demo_plugin_dialog",
           "name": "对话框",
           "url": "/demo/plugin/dialog"
+        },
+        {
+          "id": "demo_plugin_masonry",
+          "name": "瀑布流",
+          "url": "/demo/plugin/masonry"
         }
       ]
     },

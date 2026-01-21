@@ -63,6 +63,11 @@
           "url": "/demo/foundation/thread"
         },
         {
+          "id": "demo_foundation_queue",
+          "name": "队列",
+          "url": "/demo/foundation/queue"
+        },
+        {
           "id": "demo_foundation_errorCatch",
           "name": "错误捕获",
           "url": "/demo/foundation/errorCatch"
@@ -120,9 +125,19 @@
           "url": "/demo/state/httpLockerOperation"
         },
         {
+          "id": "demo_state_httpPiniaOperation",
+          "name": "HTTP Pinia操作",
+          "url": "/demo/state/httpPiniaOperation"
+        },
+        {
           "id": "demo_state_httpVuexOperation",
           "name": "HTTP Vuex操作",
           "url": "/demo/state/httpVuexOperation"
+        },
+        {
+          "id": "demo_state_rpcStreamPiniaOperation",
+          "name": "RPC Stream Pinia操作",
+          "url": "/demo/state/rpcStreamPiniaOperation"
         },
         {
           "id": "demo_state_rpcStreamVuexOperation",
@@ -367,6 +382,16 @@
           "id": "product_postman",
           "name": "Postman",
           "url": "/product/postman"
+        },
+        {
+          "id": "product_incomeTaxCalculator",
+          "name": "个税汇算清缴计算器",
+          "url": "/product/incomeTaxCalculator"
+        },
+        {
+          "id": "product_mortgageCalculator",
+          "name": "房贷计算器",
+          "url": "/product/mortgageCalculator"
         },
         {
           "id": "product_performanceTools",
