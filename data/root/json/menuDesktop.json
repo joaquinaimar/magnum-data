@@ -35,6 +35,11 @@
           "id": "demo_w3c_iframeTrial",
           "name": "iframe 试验",
           "url": "/demo/w3c/iframeTrial"
+        },
+        {
+          "id": "demo_w3c_htmlDomEngine",
+          "name": "HtmlDom 引擎",
+          "url": "/demo/w3c/htmlDomEngine"
         }
       ]
     },
@@ -86,11 +91,6 @@
           "id": "demo_foundation_componentTrial",
           "name": "框架组件实验",
           "url": "/demo/foundation/componentTrial"
-        },
-        {
-          "id": "demo_foundation_baidu",
-          "name": "打开链接（百度一下）",
-          "openUrl": "https://www.baidu.com/"
         }
       ]
     },
@@ -222,11 +222,6 @@
           "id": "demo_chart_wordCloud",
           "name": "词云",
           "url": "/demo/chart/wordCloud"
-        },
-        {
-          "id": "demo_chart_echartsWebsite",
-          "name": "ECharts 官网",
-          "openUrl": "https://echarts.apache.org/zh/index.html"
         },
         {
           "id": "demo_chart_echarts2DExample",
@@ -364,10 +359,27 @@
       ]
     },
     {
+      "id": "utility_widget",
+      "iconFont": "fa radiation",
+      "name": "utility小部件",
+      "children": [
+        {
+          "id": "utility_widget_cmsTemplate",
+          "name": "CmsTemplate",
+          "url": "/utility/widget/cmsTemplate"
+        }
+      ]
+    },
+    {
       "id": "product",
       "iconFont": "fa star",
       "name": "内置应用",
       "children": [
+        {
+          "id": "product_rpcManagerTools",
+          "name": "RpcManager工具",
+          "url": "/product/rpcManagerTools"
+        },
         {
           "id": "product_imageEditor",
           "name": "图片编辑器",
@@ -397,6 +409,28 @@
           "id": "product_performanceTools",
           "name": "绩效打分工具",
           "url": "/product/performanceTools"
+        }
+      ]
+    },
+    {
+      "id": "tutorial",
+      "iconFont": "fa book",
+      "name": "教程",
+      "children": [
+        {
+          "id": "demo_tutorial_es6",
+          "name": "阮一峰ES6",
+          "openUrl": "https://es6.ruanyifeng.com/"
+        },
+        {
+          "id": "demo_tutorial_echarts",
+          "name": "ECharts 官网",
+          "openUrl": "https://echarts.apache.org/zh/index.html"
+        },
+        {
+          "id": "demo_tutorial_fontawesome",
+          "name": "fontawesome",
+          "openUrl": "https://fontawesome.com.cn/v5"
         }
       ]
     },
