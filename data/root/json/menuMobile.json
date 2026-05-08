@@ -127,6 +127,18 @@
       ]
     },
     {
+      "id": "utility_widget",
+      "iconFont": "fa radiation",
+      "name": "utility小部件",
+      "children": [
+        {
+          "id": "utility_widget_cmsTemplate",
+          "name": "CmsTemplate",
+          "url": "/utility/widget/cmsTemplate"
+        }
+      ]
+    },
+    {
       "iconImage": "https://www.baidu.com/favicon.ico",
       "id": "demo_frame_baidu",
       "name": "框架-打开链接（百度）",
